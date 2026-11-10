@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="Obrigado pela visita.">
+  <defs>
+    <linearGradient id="fac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ea043"/><stop offset=".5" stop-color="#39d0d8"/><stop offset="1" stop-color="#2ea043"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <style>
+      .ft{font:600 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+      .fm{font:400 14px 'JetBrains Mono','Consolas',ui-monospace,monospace;fill:#8b949e}
+    </style>
+  </defs>
+  <rect width="1200" height="120" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="440" y="36" width="320" height="3" rx="1.5" fill="url(#fac)"/>
+  <text x="600" y="72" text-anchor="middle" class="ft">Obrigado pela visita! 👋</text>
+  <text x="600" y="98" text-anchor="middle" class="fm">$ exit 0  —  let's build something with quality</text>
+</svg>

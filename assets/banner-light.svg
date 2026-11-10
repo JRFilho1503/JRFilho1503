@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="José Roberto Benaglia — QA e Automação de Testes, Python, Django, Docker. Disponível para novas oportunidades.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f6f8fa"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ea043"/>
+      <stop offset=".5" stop-color="#39d0d8"/>
+      <stop offset="1" stop-color="#2ea043"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1 0" to="1 0" dur="4s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2ea043" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#39d0d8" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .name{font:700 48px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+      .role{font:600 27px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#1f2328}
+      .mono{font:400 15px 'JetBrains Mono','Consolas',ui-monospace,monospace;fill:#656d76}
+      .chk{font:400 15px 'JetBrains Mono','Consolas',ui-monospace,monospace;fill:#1a7f37}
+      .accentfill{fill:#39d0d8}
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="none" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- glow à deriva -->
+  <ellipse cx="300" cy="120" rx="420" ry="260" fill="url(#glow)">
+    <animate attributeName="cx" values="300;820;300" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- pontinhos flutuando -->
+  <g fill="#39d0d8">
+    <circle cx="980" cy="70" r="3" opacity=".5"><animate attributeName="cy" values="70;58;70" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1040" cy="120" r="2" opacity=".4"><animate attributeName="cy" values="120;134;120" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1100" cy="90" r="2.5" opacity=".35"><animate attributeName="cy" values="90;78;90" dur="7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- terminal tag -->
+  <g transform="translate(56,52)">
+    <circle cx="0" cy="0" r="6" fill="#ff5f56"/><circle cx="20" cy="0" r="6" fill="#ffbd2e"/><circle cx="40" cy="0" r="6" fill="#27c93f"/>
+    <text x="62" y="5" class="mono">~/qa $ run --coverage=100%</text>
+  </g>
+
+  <!-- nome -->
+  <text x="56" y="150" class="name">José Roberto Benaglia</text>
+
+  <!-- sublinhado animado -->
+  <rect x="58" y="168" width="470" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- role: 3 frases ciclando -->
+  <g transform="translate(58,212)">
+    <text x="26" class="role" opacity="0">QA &amp; Automação de Testes
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.02;.08;.28;.33;1" dur="9s" begin="0s" repeatCount="indefinite"/>
+    </text>
+    <text x="26" class="role" opacity="0">Python · Django · Docker · Scrum
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.02;.08;.28;.33;1" dur="9s" begin="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="26" class="role accentfill" opacity="0">Disponível para novas oportunidades
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.02;.08;.28;.33;1" dur="9s" begin="6s" repeatCount="indefinite"/>
+    </text>
+    <!-- cursor piscando -->
+    <rect x="0" y="-22" width="12" height="28" class="accentfill" opacity=".9">
+      <animate attributeName="opacity" values="0;0;.9;.9;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- painel "testes passando" à direita -->
+  <g transform="translate(930,150)">
+    <text class="chk" opacity="0" y="0">✓ e2e/triagem.spec<animate attributeName="opacity" values="0;1;1" keyTimes="0;.2;1" dur="4s" begin="0.3s" fill="freeze"/></text>
+    <text class="chk" opacity="0" y="26">✓ e2e/funil.spec<animate attributeName="opacity" values="0;1;1" keyTimes="0;.2;1" dur="4s" begin="1.0s" fill="freeze"/></text>
+    <text class="chk" opacity="0" y="52">✓ api/candidatos<animate attributeName="opacity" values="0;1;1" keyTimes="0;.2;1" dur="4s" begin="1.7s" fill="freeze"/></text>
+    <text class="mono" opacity="0" y="82" fill="#1a7f37">3 passed · 0 failed<animate attributeName="opacity" values="0;1" keyTimes="0;1" dur="1s" begin="2.5s" fill="freeze"/></text>
+  </g>
+</svg>
