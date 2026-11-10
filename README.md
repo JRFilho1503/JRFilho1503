@@ -84,16 +84,28 @@ Engenheiro de **QA focado em automação de testes**: garanto qualidade de ponta
 
 Projetos de estudo e prática (o trabalho principal é em repositórios privados de empresa):
 
-| Projeto | O que é |
-| --- | --- |
-| **[SGE](https://github.com/JRFilho1503/SGE)** | Sistema de Gestão de Estoque em Python — cadastro de produtos, entradas/saídas e controle de estoque. |
-| **[flix_api](https://github.com/JRFilho1503/flix_api)** | API em Python/Django REST para catálogo de filmes — modelos, endpoints e autenticação. |
+- **SGE** — Sistema de Gestão de Estoque em Python: cadastro de produtos, entradas/saídas e controle de estoque.
+- **flix_api** — API em Python/Django REST para catálogo de filmes: modelos, endpoints e autenticação.
+
+<p align="center">
+  <a href="https://github.com/JRFilho1503/SGE"><img src="assets/btn-sge.svg" height="38" alt="Abrir SGE no GitHub"></a>
+  &nbsp;
+  <a href="https://github.com/JRFilho1503/flix_api"><img src="assets/btn-flix.svg" height="38" alt="Abrir flix_api no GitHub"></a>
+  &nbsp;
+  <a href="https://github.com/JRFilho1503?tab=repositories"><img src="assets/btn-repos.svg" height="38" alt="Todos os repositórios"></a>
+</p>
 
 ## 📫 Contato
 
-- **LinkedIn:** [in/nuchobenaglia](https://www.linkedin.com/in/nuchobenaglia/)
-- **E-mail:** [nuchobenaglia@gmail.com](mailto:nuchobenaglia@gmail.com)
-- **Local:** Guarulhos, São Paulo, Brasil · **Disponível para novas oportunidades**
+<p align="center">
+  <a href="https://www.linkedin.com/in/nuchobenaglia/"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:nuchobenaglia@gmail.com"><img src="assets/btn-email.svg" height="38" alt="E-mail"></a>
+  &nbsp;
+  <a href="https://github.com/JRFilho1503"><img src="assets/btn-github.svg" height="38" alt="GitHub"></a>
+</p>
+
+<p align="center">📍 Guarulhos, São Paulo, Brasil · <b>Disponível para novas oportunidades</b></p>
 
 <div align="center">
   <picture>

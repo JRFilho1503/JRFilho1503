@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40" role="img" aria-label="SGE">
+  <rect width="120" height="40" rx="8" fill="#2ea043"/>
+  <g transform="translate(14,10)" fill="#ffffff"><path d="M3 2.5A2.5 2.5 0 0 1 5.5 0h11a.75.75 0 0 1 .75.75v14.5a.75.75 0 0 1-.75.75h-3a.75.75 0 0 1 0-1.5h2.25v-2.5h-9a1 1 0 0 0-.72 1.7.75.75 0 1 1-1.08 1.04A2.5 2.5 0 0 1 3 12V2.5zm12.75-1h-10.25a1 1 0 0 0-1 1v7.2a2.5 2.5 0 0 1 1-.2h10.25V1.5z"/></g>
+  <text x="44" y="25" fill="#ffffff" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600">SGE</text>
+</svg>
