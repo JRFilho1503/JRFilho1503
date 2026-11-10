@@ -59,6 +59,16 @@ Engenheiro de **QA focado em automação de testes**: garanto qualidade de ponta
 | **Observabilidade** | Caço causa-raiz em logs de produção/staging (Grafana/Loki) antes de cravar veredito. |
 | **Processo & evidência** | Homologação com evidência fresca por card no Jira, dentro da esteira de release (Scrum). |
 
+## 🔄 Meu fluxo de QA — da reprodução à evidência
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JRFilho1503/JRFilho1503/HEAD/assets/qa-flow-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JRFilho1503/JRFilho1503/HEAD/assets/qa-flow-light.svg">
+    <img src="https://raw.githubusercontent.com/JRFilho1503/JRFilho1503/HEAD/assets/qa-flow-light.svg" width="100%" alt="Fluxo de QA: Reproduzir, Automatizar (Playwright/Pytest), CI, Analisar logs (Grafana/Loki), Homologar, Evidência (Jira).">
+  </picture>
+</div>
+
 ## 🛠️ Stack
 
 | Área | Tecnologias |
