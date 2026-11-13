@@ -82,12 +82,11 @@ Engenheiro de **QA focado em automação de testes**: garanto qualidade de ponta
 
 ## 📂 Projetos
 
-> 🧪 **[Portfólio de QA »](https://github.com/JRFilho1503/qa-portfolio)** — meu portfólio completo de Quality Assurance: estratégia e casos de teste, bug reports com evidência, automação E2E em **Playwright** (Page Object Model), testes de **API** e metodologia de **QA de IA/LLM**. É o melhor lugar pra ver como eu trabalho.
-
-Além dele, projetos próprios de estudo e prática — o trabalho do dia a dia fica em repositórios privados de empresa:
-
+- **[Portfólio de QA](https://github.com/JRFilho1503/qa-portfolio)** — *meu portfólio de Quality Assurance* (Playwright · API · QA de IA/LLM): plano e casos de teste, bug reports com evidência, automação E2E com Page Object Model e metodologia de teste de agentes conversacionais.
 - **[SGE](https://github.com/JRFilho1503/SGE)** — *Sistema de Gestão de Estoque* (Python): CRUD de produtos, controle de entradas/saídas e saldo, com foco em modelagem de dados e regras de negócio.
 - **[flix_api](https://github.com/JRFilho1503/flix_api)** — *API REST de catálogo de filmes* (Python · Django REST): modelos, endpoints, autenticação e permissões — a base que uso pra entender e testar APIs por dentro.
+
+<sub>O trabalho principal do dia a dia fica em repositórios privados de empresa.</sub>
 
 <p align="center">
   <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="assets/btn-portfolio.svg" height="44" alt="Portfólio de QA"></a>
