@@ -82,15 +82,15 @@ Engenheiro de **QA focado em automação de testes**: garanto qualidade de ponta
 
 ## 📂 Projetos
 
-> 🧪 **[Portfólio de QA »](https://github.com/JRFilho1503/qa-portfolio)** — meu portfólio completo de Quality Assurance: plano e casos de teste, bug reports, automação E2E com Playwright, testes de API e metodologia de QA de IA/LLM.
+> 🧪 **[Portfólio de QA »](https://github.com/JRFilho1503/qa-portfolio)** — meu portfólio completo de Quality Assurance: estratégia e casos de teste, bug reports com evidência, automação E2E em **Playwright** (Page Object Model), testes de **API** e metodologia de **QA de IA/LLM**. É o melhor lugar pra ver como eu trabalho.
 
-Projetos de estudo e prática (o trabalho principal é em repositórios privados de empresa):
+Além dele, projetos próprios de estudo e prática — o trabalho do dia a dia fica em repositórios privados de empresa:
 
-- **SGE** — Sistema de Gestão de Estoque em Python: cadastro de produtos, entradas/saídas e controle de estoque.
-- **flix_api** — API em Python/Django REST para catálogo de filmes: modelos, endpoints e autenticação.
+- **[SGE](https://github.com/JRFilho1503/SGE)** — *Sistema de Gestão de Estoque* (Python): CRUD de produtos, controle de entradas/saídas e saldo, com foco em modelagem de dados e regras de negócio.
+- **[flix_api](https://github.com/JRFilho1503/flix_api)** — *API REST de catálogo de filmes* (Python · Django REST): modelos, endpoints, autenticação e permissões — a base que uso pra entender e testar APIs por dentro.
 
 <p align="center">
-  <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Portf%C3%B3lio%20de%20QA-2EAD33?style=for-the-badge" height="38" alt="Portfólio de QA"></a>
+  <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="assets/btn-portfolio.svg" height="38" alt="Portfólio de QA"></a>
   &nbsp;
   <a href="https://github.com/JRFilho1503/SGE"><img src="assets/btn-sge.svg" height="38" alt="Abrir SGE no GitHub"></a>
   &nbsp;
