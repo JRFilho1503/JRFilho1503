@@ -90,8 +90,10 @@ Além dele, projetos próprios de estudo e prática — o trabalho do dia a dia 
 - **[flix_api](https://github.com/JRFilho1503/flix_api)** — *API REST de catálogo de filmes* (Python · Django REST): modelos, endpoints, autenticação e permissões — a base que uso pra entender e testar APIs por dentro.
 
 <p align="center">
-  <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="assets/btn-portfolio.svg" height="38" alt="Portfólio de QA"></a>
-  &nbsp;
+  <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="assets/btn-portfolio.svg" height="44" alt="Portfólio de QA"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/JRFilho1503/SGE"><img src="assets/btn-sge.svg" height="38" alt="Abrir SGE no GitHub"></a>
   &nbsp;
   <a href="https://github.com/JRFilho1503/flix_api"><img src="assets/btn-flix.svg" height="38" alt="Abrir flix_api no GitHub"></a>

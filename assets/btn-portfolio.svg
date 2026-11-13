@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40" role="img" aria-label="Portfólio de QA">
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="44" viewBox="0 0 230 44" role="img" aria-label="Portfólio de QA">
   <title>Portfólio de QA</title>
-  <rect width="200" height="40" rx="8" fill="#238636"/>
-  <g transform="translate(15,11)" fill="#ffffff"><path d="M5 0h6a.75.75 0 0 1 0 1.5h-1v4.2l4.1 8.1a1.6 1.6 0 0 1-1.43 2.3H3.33a1.6 1.6 0 0 1-1.43-2.3L6 5.7V1.5H5A.75.75 0 0 1 5 0zm2.5 1.5v4.38a.75.75 0 0 1-.08.34L5.9 9.25h4.2L8.58 6.22a.75.75 0 0 1-.08-.34V1.5h-1z"/></g>
-  <text x="46" y="25" fill="#ffffff" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="600">Portfólio de QA</text>
+  <rect width="230" height="44" rx="9" fill="#1f6feb"/>
+  <g transform="translate(18,12)" fill="#ffffff"><path d="M5 0h6a.75.75 0 0 1 0 1.5h-1v4.2l4.1 8.1a1.6 1.6 0 0 1-1.43 2.3H3.33a1.6 1.6 0 0 1-1.43-2.3L6 5.7V1.5H5A.75.75 0 0 1 5 0zm2.5 1.5v4.38a.75.75 0 0 1-.08.34L5.9 9.25h4.2L8.58 6.22a.75.75 0 0 1-.08-.34V1.5h-1z"/></g>
+  <text x="50" y="28" fill="#ffffff" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700">Portfólio de QA</text>
 </svg>
