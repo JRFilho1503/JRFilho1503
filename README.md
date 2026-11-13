@@ -82,12 +82,16 @@ Engenheiro de **QA focado em automação de testes**: garanto qualidade de ponta
 
 ## 📂 Projetos
 
+> 🧪 **[Portfólio de QA »](https://github.com/JRFilho1503/qa-portfolio)** — meu portfólio completo de Quality Assurance: plano e casos de teste, bug reports, automação E2E com Playwright, testes de API e metodologia de QA de IA/LLM.
+
 Projetos de estudo e prática (o trabalho principal é em repositórios privados de empresa):
 
 - **SGE** — Sistema de Gestão de Estoque em Python: cadastro de produtos, entradas/saídas e controle de estoque.
 - **flix_api** — API em Python/Django REST para catálogo de filmes: modelos, endpoints e autenticação.
 
 <p align="center">
+  <a href="https://github.com/JRFilho1503/qa-portfolio"><img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Portf%C3%B3lio%20de%20QA-2EAD33?style=for-the-badge" height="38" alt="Portfólio de QA"></a>
+  &nbsp;
   <a href="https://github.com/JRFilho1503/SGE"><img src="assets/btn-sge.svg" height="38" alt="Abrir SGE no GitHub"></a>
   &nbsp;
   <a href="https://github.com/JRFilho1503/flix_api"><img src="assets/btn-flix.svg" height="38" alt="Abrir flix_api no GitHub"></a>
